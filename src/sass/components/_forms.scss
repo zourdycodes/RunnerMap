@@ -11,6 +11,9 @@
   /* Match height and activity boxes */
   height: 9.25rem;
   transition: all 0.5s, transform 1ms;
+  @include responds(phone) {
+    height: 16rem;
+  }
 
   &.hidden {
     transform: translateY(-30rem);
@@ -23,6 +26,9 @@
   &__row {
     display: flex;
     align-items: center;
+    @include responds(phone) {
+      display: block;
+    }
   }
 
   &__row--hidden {
