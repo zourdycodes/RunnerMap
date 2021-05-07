@@ -1,3 +1,17 @@
+/*?
+  0 - 600         PHONE
+  600 - 900       TABLET PORTRAIT
+  900 - 1200      TABLET LANDSCAPE
+  [1200 - 1800]   IS WHERE OUR NORMAL STYLES APPLIED
+  [1800]++++      BIG DESKTOP
+  
+  $breakpoint === Argument choices
+- Phone
+- Tablet Portrait
+- Tablet Landscape
+- Desktop
+- BIG Desktop
+?*/
 *,
 *::before,
 *::after {
@@ -19,8 +33,12 @@ body {
   overscroll-behavior-y: none;
   background-color: #fff;
   padding: 2.5rem;
-  display: block;
-  /*check this later*/ }
+  display: flex; }
+  @media (max-width: 37.5em) {
+    body {
+      display: block;
+      /*check this later*/
+      padding: 1.5rem; } }
 
 /* GENERAL */
 a:link,

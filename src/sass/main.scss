@@ -1,7 +1,8 @@
-@import './layout/variables.scss';
+@import './abstracts/mixins';
 @import './layout/base.scss';
 
 @import './pages/home.scss';
+@import './layout/variables.scss';
 
 // components
 @import './components/workouts.scss';
