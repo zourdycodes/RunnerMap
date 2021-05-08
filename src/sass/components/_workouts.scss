@@ -19,6 +19,10 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 0.75rem 1.5rem;
 
+  @include responds(phone) {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+
   &--running {
     border-left: 5px solid $--color-brand--2;
   }
@@ -36,6 +40,10 @@
   &__details {
     display: flex;
     align-items: baseline;
+    // @include responds(phone) {
+    //   // display: block;
+    //   // justify-content: ;
+    // }
   }
 
   &__icon {

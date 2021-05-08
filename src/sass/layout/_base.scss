@@ -23,9 +23,14 @@ body {
   background-color: #fff;
   padding: 2.5rem;
 
-  @include responds(phone) {
+  @include responds(tabPort) {
     display: block; /*check this later*/
     padding: 1.5rem;
+  }
+
+  @include responds(phone) {
+    display: block; /*check this later*/
+    padding: 0;
   }
   display: flex;
 }
