@@ -1,7 +1,26 @@
+.copyright {
+  margin-top: auto;
+  font-size: 1.3rem;
+  text-align: center;
+  color: $--color-light--1;
+}
+
+.twitter-link:link,
+.twitter-link:visited {
+  color: $--color-light--1;
+  transition: all 0.2s;
+}
+
+.twitter-link:hover,
+.twitter-link:active {
+  color: $--color-light--2;
+}
+
 /* Popup width is defined in JS using options */
+
 .leaflet-popup .leaflet-popup-content-wrapper {
-  background-color: var(--color-dark--1);
-  color: var(--color-light--2);
+  background-color: $--color-dark--1;
+  color: $--color-light--2;
   border-radius: 5px;
   padding-right: 0.6rem;
 }
@@ -11,7 +30,7 @@
 }
 
 .leaflet-popup .leaflet-popup-tip {
-  background-color: var(--color-dark--1);
+  background-color: $--color-dark--1;
 }
 
 .running-popup .leaflet-popup-content-wrapper {

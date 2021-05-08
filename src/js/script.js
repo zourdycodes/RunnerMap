@@ -1,5 +1,5 @@
 'use strict';
-// import ScrollReveal from 'scrollreveal';nph
+
 // prettier-ignore
 const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
@@ -10,3 +10,17 @@ const inputDistance = document.querySelector('.form__input--distance');
 const inputDuration = document.querySelector('.form__input--duration');
 const inputCadence = document.querySelector('.form__input--cadence');
 const inputElevation = document.querySelector('.form__input--elevation');
+
+//* Geolocation API
+
+if (navigator.geolocation) {
+  navigator.geolocation.getCurrentPosition(
+    function (position) {
+      const { latitude } = position.coords;
+      const { longitude } = position.coords;
+    },
+    function () {
+      alert('sorry, cannot get yoour urrent current location!');
+    }
+  );
+}
