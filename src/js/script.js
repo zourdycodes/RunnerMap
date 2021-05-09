@@ -48,7 +48,7 @@ if (navigator.geolocation) {
       });
     },
     function () {
-      alert('sorry, cannot get yoour urrent current location!');
+      alert('sorry, cannot get yoour current current location!');
     }
   );
 }
