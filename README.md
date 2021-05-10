@@ -3,6 +3,7 @@
 > _Fitmap_ is an helpful application for you who love sports and healthy life
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![twitter](https://img.shields.io/badge/Follow--lightgrey?logo=twitter&style=social)](https://twitter.com/zourdythedev)
 
 # 🏃‍♂️ FITMAP APPLICATION
 
@@ -64,4 +65,3 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 [zourdycodes](https://zourdycodes.netlify.app/)
-[![twitter](https://img.shields.io/badge/Follow--lightgrey?logo=twitter&style=social)](https://twitter.com/zourdythedev)
