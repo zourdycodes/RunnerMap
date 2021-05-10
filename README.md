@@ -44,7 +44,7 @@ Start the server
 
 ## Project Architecture
 
-![](vscode-remote://wsl%2Bubuntu/home/zourdythedev/mapy-project/starter/src/images/Mapty-architecture-final.png)
+<img alt="bankist-easy-to-share" src="./src/images/Mapty-architecture-final.png">
 
 ## Tech Stack
 
