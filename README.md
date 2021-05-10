@@ -64,3 +64,4 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 [zourdycodes](https://zourdycodes.netlify.app/)
+[![twitter](https://img.shields.io/badge/Follow--lightgrey?logo=twitter&style=social)](https://twitter.com/zourdythedev)
