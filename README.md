@@ -21,7 +21,7 @@ because this code base contain Advanced Design Pattern and OOP paradigm that wil
 Clone the project
 
 ```bash
-  git clone https://github.com/zourdycodes/bankist-frontend.git your-project
+  git clone https://github.com/zourdycodes/RunnerMap.git your-project
 ```
 
 Go to the project directory
