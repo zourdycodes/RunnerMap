@@ -1,4 +1,4 @@
-<img alt="bankist-easy-to-share" src="./src/images/logoz.png" width="350">
+<img alt="bankist-easy-to-share" src="./dist/images/logoz.png" width="350">
 
 > _Fitmap_ is an helpful application for you who love sports and healthy life
 
