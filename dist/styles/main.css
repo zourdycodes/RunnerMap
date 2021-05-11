@@ -64,7 +64,8 @@ a:visited {
 .logo {
   height: 5.2rem;
   align-self: center;
-  margin-bottom: 4rem; }
+  margin-bottom: 4rem;
+  transform: scale(3.5); }
 
 /* MAP */
 #map {
