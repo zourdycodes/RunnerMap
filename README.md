@@ -8,7 +8,7 @@
 # 🏃‍♂️ FITMAP APPLICATION
 
 Greetings! Fellow Developer 💥, Fitmap is a new way for you to scheduling your fitness and daily sports more efficient with a runtime Map and
-the fun part is, this is an absolutely free and open-source application.
+the fun part is, this is an absolutely free and open-source application more or less this project might be helpful for the new comers of developers who get into JavaScript.
 
 Fitmap 🚴‍♀️ also provide a real time calculating you elevate gain and distance as well as cadence when you are doing some Running or Cycling, fortunately this application is in BETA VERSION, the real one is will be including health measurements and calories measurements and login authentication.
 
