@@ -44,7 +44,7 @@ Start the server
 
 ## Project Architecture
 
-<img alt="bankist-easy-to-share" src="./src/images/Mapty-architecture-final.png">
+<img alt="bankist-easy-to-share" src="./dist/images/Mapty-architecture-final.png">
 
 ## Tech Stack
 
