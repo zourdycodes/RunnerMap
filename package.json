@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
     "compile:sass": "node-sass dist/sass/main.scss dist/styles/main.css -w"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^5.0.0"
+    "node-sass": "^5.0.0",
+    "parcel": "*"
   }
 }
