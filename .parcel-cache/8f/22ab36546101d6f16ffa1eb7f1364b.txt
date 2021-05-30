@@ -1,7 +1,7 @@
-22683
+22677
 49/home/zourdythedev/mapy-project/starter/.firebase1620765907980424700 1
 58/home/zourdythedev/mapy-project/starter/CODE-OF-CONDUCT.md1620662283219050900 0
-50/home/zourdythedev/mapy-project/starter/index.html1622365613910000000 0
+50/home/zourdythedev/mapy-project/starter/index.html1620769771290424700 0
 52/home/zourdythedev/mapy-project/starter/js/script.js1622269594924148600 0
 42/home/zourdythedev/mapy-project/starter/js1621329537063746600 1
 44/home/zourdythedev/mapy-project/starter/test1620544132086257600 1
@@ -26,8 +26,6 @@
 49/home/zourdythedev/mapy-project/starter/README.md1620984173170000000 0
 50/home/zourdythedev/mapy-project/starter/.gitignore1620765889000424700 0
 53/home/zourdythedev/mapy-project/starter/firebase.json1620765889000424700 0
-58/home/zourdythedev/mapy-project/starter/logoz.6fa3f63c.png1622365610720000000 0
-61/home/zourdythedev/mapy-project/starter/index.c7e5cfd0.js.map1622365613910000000 0
 75/home/zourdythedev/mapy-project/starter/node_modules/resolve-from/readme.md1493365924000000000 0
 78/home/zourdythedev/mapy-project/starter/node_modules/resolve-from/package.json1493366292000000000 0
 73/home/zourdythedev/mapy-project/starter/node_modules/resolve-from/license1477422099000000000 0
@@ -5005,7 +5003,6 @@
 98/home/zourdythedev/mapy-project/starter/node_modules/postcss-discard-overridden/node_modules/chalk1622277474534148600 1
 70/home/zourdythedev/mapy-project/starter/node_modules/lodash/release.md499162500000000000 0
 65/home/zourdythedev/mapy-project/starter/node_modules/.bin/js-yaml1622277481954148600 0
-58/home/zourdythedev/mapy-project/starter/index.854cca21.css1622365613910000000 0
 101/home/zourdythedev/mapy-project/starter/node_modules/unicode-property-aliases-ecmascript/package.json499162500000000000 0
 105/home/zourdythedev/mapy-project/starter/node_modules/icss-utils/node_modules/source-map/lib/base64-vlq.js1492467891000000000 0
 64/home/zourdythedev/mapy-project/starter/node_modules/.bin/rimraf1620345328880000000 0
@@ -8209,7 +8206,6 @@
 117/home/zourdythedev/mapy-project/starter/node_modules/postcss-normalize-whitespace/node_modules/postcss/docs/syntax.md499162500000000000 0
 116/home/zourdythedev/mapy-project/starter/node_modules/postcss-minify-params/node_modules/postcss/lib/map-generator.js499162500000000000 0
 69/home/zourdythedev/mapy-project/starter/node_modules/is-wsl/readme.md499162500000000000 0
-57/home/zourdythedev/mapy-project/starter/index.c7e5cfd0.js1622365613910000000 0
 112/home/zourdythedev/mapy-project/starter/node_modules/postcss-minify-params/node_modules/postcss/lib/postcss.d.ts499162500000000000 0
 87/home/zourdythedev/mapy-project/starter/node_modules/@parcel/core/src/RequestTracker.js499162500000000000 0
 78/home/zourdythedev/mapy-project/starter/node_modules/pako/lib/zlib/gzheader.js499162500000000000 0
@@ -9153,7 +9149,7 @@
 106/home/zourdythedev/mapy-project/starter/node_modules/jsdom/lib/jsdom/living/generated/HTMLAnchorElement.js499162500000000000 0
 103/home/zourdythedev/mapy-project/starter/node_modules/@parcel/utils/test/input/sourcemap/no-sourcemap.js499162500000000000 0
 77/home/zourdythedev/mapy-project/starter/node_modules/react-refresh/runtime.js499162500000000000 0
-39/home/zourdythedev/mapy-project/starter1622365613910000000 1
+39/home/zourdythedev/mapy-project/starter1622278289234148600 1
 106/home/zourdythedev/mapy-project/starter/node_modules/core-js-compat/get-modules-list-for-target-version.js499162500000000000 0
 101/home/zourdythedev/mapy-project/starter/node_modules/postcss-selector-parser/dist/__tests__/parser.js499162500000000000 0
 96/home/zourdythedev/mapy-project/starter/node_modules/@parcel/scope-hoisting/lib/formats/index.js499162500000000000 0
@@ -16929,7 +16925,6 @@
 69/home/zourdythedev/mapy-project/starter/node_modules/xtend/mutable.js499162500000000000 0
 62/home/zourdythedev/mapy-project/starter/node_modules/relateurl1622277476454148600 1
 70/home/zourdythedev/mapy-project/starter/node_modules/relateurl/license1442370472000000000 0
-57/home/zourdythedev/mapy-project/starter/icon.de084ca5.png1622365610720000000 0
 105/home/zourdythedev/mapy-project/starter/node_modules/uncss/node_modules/postcss/lib/terminal-highlight.js499162500000000000 0
 99/home/zourdythedev/mapy-project/starter/node_modules/es-abstract/2018/AbstractEqualityComparison.js499162500000000000 0
 121/home/zourdythedev/mapy-project/starter/node_modules/postcss-reduce-transforms/node_modules/source-map/lib/source-node.js1506522668000000000 0
@@ -19032,7 +19027,6 @@
 87/home/zourdythedev/mapy-project/starter/node_modules/caniuse-lite/data/features/flac.js499162500000000000 0
 129/home/zourdythedev/mapy-project/starter/node_modules/postcss-normalize-url/node_modules/chalk/node_modules/supports-color/license1496344655000000000 0
 99/home/zourdythedev/mapy-project/starter/node_modules/postcss-normalize-url/node_modules/chalk/types1622277474844148600 1
-62/home/zourdythedev/mapy-project/starter/index.854cca21.css.map1622365613910000000 0
 79/home/zourdythedev/mapy-project/starter/node_modules/ws/lib/websocket-server.js499162500000000000 0
 74/home/zourdythedev/mapy-project/starter/node_modules/is-regex/package.json499162500000000000 0
 101/home/zourdythedev/mapy-project/starter/node_modules/postcss-normalize-url/node_modules/chalk/license499162500000000000 0
@@ -21845,7 +21839,7 @@
 100/home/zourdythedev/mapy-project/starter/node_modules/caniuse-lite/data/features/loading-lazy-attr.js499162500000000000 0
 100/home/zourdythedev/mapy-project/starter/node_modules/node-sass/src/libsass/.github/ISSUE_TEMPLATE.md499162500000000000 0
 101/home/zourdythedev/mapy-project/starter/node_modules/caniuse-lite/data/features/unhandledrejection.js499162500000000000 0
-52/home/zourdythedev/mapy-project/starter/package.json1622365606930000000 0
+52/home/zourdythedev/mapy-project/starter/package.json1622283044394148600 0
 79/home/zourdythedev/mapy-project/starter/node_modules/lodash/fp/padCharsStart.js499162500000000000 0
 97/home/zourdythedev/mapy-project/starter/node_modules/@babel/runtime/helpers/esm/defineProperty.js456789000000000000 0
 100/home/zourdythedev/mapy-project/starter/node_modules/caniuse-lite/data/features/css3-cursors-grab.js499162500000000000 0

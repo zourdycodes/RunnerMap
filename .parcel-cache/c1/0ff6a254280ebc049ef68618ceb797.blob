@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" type="image/png" href="5194794d4edc211351af02886bd996a7">
+
+    <link href="3a2777556f4424231bc3ce6a50826a10" rel="stylesheet">
+
+    <link rel="stylesheet" href="c783101d59784d114407b7126684af4d">
+    <link rel="stylesheet" href="3a5d301e4e7e3dd736c8c4624a39e0bb" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="">
+
+    <script defer="" src="d85ee1e7070a83227edd05c0ae2a8f71"></script>
+
+    <script defer="" src="2ad0778d05b6e65914cda30d0b514ca4" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+
+    <script defer="" src="f52edcd649ed6e064617d9d1c1aaf505"></script>
+
+    <title>mapty // Map your workouts</title>
+  </head>
+  <body>
+    <!-- <div id="map"></div> -->
+
+    <div class="sidebar">
+      <img src="6061f9fd87690903c9f8f9d9100cb482" alt="Logo" class="logo">
+
+      <ul class="workouts">
+        <form class="form hidden">
+          <div class="form__row">
+            <label class="form__label">Type</label>
+            <select class="form__input form__input--type">
+              <option value="running">Running</option>
+              <option value="cycling">Cycling</option>
+            </select>
+          </div>
+          <div class="form__row">
+            <label class="form__label">Distance</label>
+            <input class="form__input form__input--distance" placeholder="km">
+          </div>
+          <div class="form__row">
+            <label class="form__label">Duration</label>
+            <input class="form__input form__input--duration" placeholder="min">
+          </div>
+          <div class="form__row">
+            <label class="form__label">Cadence</label>
+            <input class="form__input form__input--cadence" placeholder="step/min">
+          </div>
+          <div class="form__row form__row--hidden">
+            <label class="form__label">Elev Gain</label>
+            <input class="form__input form__input--elevation" placeholder="meters">
+          </div>
+          <button class="form__btn">OK</button>
+        </form>
+      </ul>
+
+      <p class="copyright">
+        &copy; Copyright by
+        <a class="twitter-link" target="_blank" href="187fad3bdd260cf53b38b408690bb519">Mohammad Zourdy</a>. Use for learning or your portfolio. Don't use to teach. Don't claim
+        as your own.
+      </p>
+    </div>
+
+    <div id="map"></div>
+  </body>
+</html>

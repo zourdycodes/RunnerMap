@@ -2,10 +2,11 @@
   "name": "runnermap",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
+    "build": "parcel build index.html",
     "compile:sass": "node-sass dist/sass/main.scss dist/styles/main.css -w"
   },
   "author": "",
